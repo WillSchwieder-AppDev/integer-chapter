@@ -4,3 +4,6 @@
 # 
 # 4
 
+remainder = 365 % 7
+
+p remainder
